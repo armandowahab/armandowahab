@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="(https://github.com/armandowahab/armandowahab/blob/main/banner-ahmad.png)" width="800">
+</p>
+
+
 <h1 align="center">👋 Olá, eu sou o Ahmad Wahab</h1>
 
 <p align="center">
